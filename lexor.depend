@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475625572 source:c:\users\wiinb\desktop\lexor\lexor1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
